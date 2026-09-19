@@ -1,0 +1,27 @@
+👋 Olá, eu sou Jair Mendes!
+
+💻 Entusiasta de tecnologia | Desenvolvedor em formação | Automação de processos
+
+Estou começando minha jornada na programação e atualmente estou focado em aprender desenvolvimento Full Stack, principalmente com JavaScript, TypeScript e Python.
+
+Mais do que apenas aprender uma linguagem, meu objetivo é entender como transformar problemas reais em soluções através da tecnologia.
+
+🚀 Sobre mim
+
+Atuo no segmento de sistemas comerciais e automação, onde tenho contato diário com problemas relacionados a:
+
+🧾 Emissão e processamento de documentos fiscais
+
+📊 Dados e processos empresariais
+ 
+🔄 Integrações entre sistemas
+
+🤖 Automação de tarefas repetitivas
+
+🛠️ Suporte e implantação de sistemas
+
+💡 Desenvolvimento de ferramentas para resolver problemas reais
+
+Foi justamente esse contato com problemas do dia a dia que despertou meu interesse por programação.
+
+Hoje estou transformando essa experiência em projetos próprios e aprofundando meus conhecimentos em desenvolvimento de software.
