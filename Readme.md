@@ -4,10 +4,6 @@
 
 Estou começando minha jornada na programação e atualmente estou focado em aprender desenvolvimento Full Stack, principalmente com JavaScript, TypeScript e Python.
 
-Mais do que apenas aprender uma linguagem, meu objetivo é entender como transformar problemas reais em soluções através da tecnologia.
-
-🚀 Sobre mim
-
 Atuo no segmento de sistemas comerciais e automação, onde tenho contato diário com problemas relacionados a:
 
 🧾 Emissão e processamento de documentos fiscais
