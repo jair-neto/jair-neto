@@ -35,6 +35,7 @@ Atualmente, meu foco está em **Python, JavaScript e desenvolvimento Full Stack*
 </p>
 
 
+
 ## 🚀 Atualmente estudando
 
 - 🐍 Python
