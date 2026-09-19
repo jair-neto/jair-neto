@@ -18,6 +18,4 @@ Atuo no segmento de sistemas comerciais e automação, onde tenho contato diári
 
 💡 Desenvolvimento de ferramentas para resolver problemas reais
 
-Foi justamente esse contato com problemas do dia a dia que despertou meu interesse por programação.
-
 Hoje estou transformando essa experiência em projetos próprios e aprofundando meus conhecimentos em desenvolvimento de software.
