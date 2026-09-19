@@ -1,11 +1,11 @@
 # 👋 Olá, meu nome é Jair!
-### 💻 Entusiasta de Tecnologia e Desenvolvedor em formação
+### 💻 Sou da Tecnologia e Desenvolvedor em formação
 
 
 
 ## 👨‍💻 Sobre mim
 
-Sou apaixonado por tecnologia e estou em constante aprendizado na área de programação.
+Na tecnologia muitos anos e estou em constante aprendizado na área de programação.
 Atualmente, meu foco está em **Python, JavaScript e desenvolvimento Full Stack**, buscando transformar problemas reais em soluções através da tecnologia.
 
 
