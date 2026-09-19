@@ -9,20 +9,6 @@ Sou apaixonado por tecnologia e estou em constante aprendizado na área de progr
 Atualmente, meu foco está em **Python, JavaScript e desenvolvimento Full Stack**, buscando transformar problemas reais em soluções através da tecnologia.
 
 
-### 🧑‍💻 Linguagens
-
-🐍 Python    🟨 JavaScript    🔷 TypeScript
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-
-### 🛠️ Ferramentas
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
 ---
 
 ### 🧑‍💻 Linguagens
